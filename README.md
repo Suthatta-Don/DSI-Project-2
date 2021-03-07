@@ -12,6 +12,7 @@ I work for the estate consultant who gives the recommendation about the house pr
 ---
 ### Executive Summary
 
+There are many indicators to predict the house price. In Ames Iowa city, there are over 80 features to study the house price. The model is built and predict the price by using linear regression, Ridge and Lasso. The winner features that increase the value of house are the size of area including ground living area, garage area and basement area. Moreover, the overall quality and age of house also impact on sale price. The 5 things that should be avoid are the low quality of exterior, fireplace quality and central air. Also, the zone of house is an important factor because the house in Commercial and Residential Medium Density tends to have low price.
 
 ---
 ### Conclusions and Recommendations
