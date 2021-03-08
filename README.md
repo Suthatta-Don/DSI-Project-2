@@ -40,8 +40,8 @@ There are many indicators to predict the house price. In Ames Iowa city, there a
 ---
 ### Datasets
 
-* [`train.csv`](./data/train.csv): Train data for machine learning model 
-* [`test.csv`](./data/test.csv): Test data for machine learning model
+* [`train.csv`](./datasets/train.csv): Train data for machine learning model 
+* [`test.csv`](./datasets/test.csv): Test data for machine learning model
 
 ---
 ### Data Dictionary
